@@ -17,7 +17,7 @@ This Python script extracts images from Google Takeout ZIP files and restores th
 Clone this repository:
 
 ``` sh
-git clone https://github.com/yourusername/google-takeout-metadata-restorer.git
+git clone https://github.com/andredni/google-takeout-photos-metadatafixer.git
 cd google-takeout-metadata-restorer
 ```
 Install dependencies:
